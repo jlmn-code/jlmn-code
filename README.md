@@ -4,73 +4,134 @@ author: "Your Name"
 format: pdf
 ---
 
-# Contact Information
+<div class="columns">
 
-- **Name:** Your Full Name
-- **Email:** your.email@example.com
-- **Phone:** (123) 456-7890
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+<div class="column"
+style="background-color: #e5e7eb; width: 28%; font-size: small;">
 
-# Education
+<img src="foto_cv_2.jpg" style="display: flex; margin: auto; padding-top: 5px; border-radius: 150px; width: 150px;"/>
 
-## Degree Name
-**Institution Name**  
-Location, Country  
-Start Date - End Date  
+#### JOSE LUIS MORALEDA NAVAMUEL
 
-- Relevant coursework or achievements
+#### CONTACTO
 
-## Another Degree
-**Institution Name**  
-Location, Country  
-Start Date - End Date  
+📧: jmoraledanavamuel@gmail.com
 
-- Relevant coursework or achievements
+📱: XXXXXXXXX
 
-# Professional Experience
+#### SKILLS [^1]
 
-## Job Title
-**Company Name**  
-Location, Country  
-Start Date - End Date  
+| TECHNICS                         | EXPERIENCE |
+|----------------------------------|------------|
+| NMR/MS/FTIR/UV                   | 🟢-🟢-🟢   |
+| filtration TFF/NF                | 🟢-🟢-🟢   |
+| chromatography                   | 🟢-🟢-🟢   |
+| pilot plant                      | 🟢-🟢      |
+| organic chemistry                | 🟢-🟢-🟢   |
+| DoE                              | 🟢-🟢-🟢   |
+| titration metrohm                | 🟢-🟢      |
+| isolation process + freeze dryer | 🟢-🟢-🟢   |
 
-- Responsibility 1
-- Responsibility 2
-- Achievement
+LABORATORY EXPERIENCE
 
-## Another Job Title
-**Company Name**  
-Location, Country  
-Start Date - End Date  
+| SOFTWARE              | EXEPRIENCE |
+|-----------------------|------------|
+| r tidyverse/model     | 🟢-🟢-🟢   |
+| phyton/html/css       | 🟢         |
+| quarto                | 🟢-🟢      |
+| empower               | 🟢-🟢      |
+| mnova                 | 🟢-🟢      |
+| minitab               | 🟢-🟢      |
+| excel/word            | 🟢-🟢-🟢   |
+| lean QbD              | 🟢         |
+| tiamo/spectra manager | 🟢-🟢      |
 
-- Responsibility 1
-- Responsibility 2
-- Achievement
+SOFTWARE EXPERIENCE
 
-# Skills
+</div>
 
-- **Programming Languages:** Python, R, JavaScript
-- **Tools & Technologies:** Git, Docker, AWS
-- **Soft Skills:** Communication, Problem Solving
+<div class="column" style="background-color: blue; width: 5%;">
 
-# Projects
+</div>
 
-## Project Name
-**Description:** Brief description of the project.  
-**Technologies:** List of technologies used.  
-**Link:** [Project Link](https://github.com/yourusername/project)
+<div class="column"
+style="background-color: white; width: 67%; font-size: small;">
 
-## Another Project
-**Description:** Brief description.  
-**Technologies:** Technologies used.  
-**Link:** [Project Link](https://github.com/yourusername/project2)
+## 🥼 PERFIL
 
-# Certifications
+Técnico de investigación multidisciplinar con más de 20 años
+experiencia. Durante este periodo he desarollado el diseño, ejecución,
+análisis de datos, conclusiones e informe final de proyectos a escala
+laboratorio y piloto.
 
-- Certification Name, Issuing Organization, Date
-- Another Certification, Organization, Date
+## 💼 EXPERIENCIA PROFESIONAL
 
-# References
+|                               |                        |                    |
+|-------------------------------|------------------------|--------------------|
+| DPTO. IDM, LABORATORIOS ROVI  | 📅 OCT/05 ~ ACTUALIDAD | TEC. INVESTIGACIÓN |
+| DPTO. I+D, JUSTESA IMAGEN     | 📅 ENE/04 ~ JUL/05     | AUX. INVESTIGACIÓN |
+| DPTO. SÍNTESIS ORGÁNICA, UNED | 📅 OCT/02 ~ DIC/03     | AUX. INVESTIGACIÓN |
 
-Available upon request.
+## 🎓 DATOS ACADÉMICOS
+
+|                                       |           |      |
+|---------------------------------------|-----------|------|
+| DOCTOR EN CIENCIAS QUÍMICAS[^2]       | 📅 JUL/17 | UAH  |
+| DIPLOMA DE ESTUDIOS AVANZADAS[^3]     | 📅 JUN/11 | UAH  |
+| LICENCIATURA EN CIENCIAS QUÍMICAS[^4] | 📅 JUN/03 | UNED |
+
+## 📋 ÚLTIMOS CURSOS
+
+|                                                       |         |
+|-------------------------------------------------------|:-------:|
+| CURSO AVANZADO ESTADÍSTICA MULTIVARIANTE (R & PYTHON) | 📅 2022 |
+| CURSO R FOR DATA SCIENCE                              | 📅 2021 |
+| CURSO LIOFILIZACIÓN [^5]                              | 📅 2021 |
+| ANÁLISIS AVANZADO DE DATOS ATÍPICOS EN R Y MATLAB     | 📅 2020 |
+| CURSO ESTADÍSTICA UNIVERSITARIO                       | 📅 2020 |
+| TANGENTIAL FLOW FILTRATION[^6], TRTFF03 & TRTFF01     | 📅 2018 |
+| DESARROLLO FARMACÉUTICO MEDIANTE QbD                  | 📅 2017 |
+| VALIDACIÓN MÉTODOS DE MEDICIÓN Y ENSAYO               | 📅 2016 |
+
+## ➕ MÁS
+
+<div class="columns">
+
+> [!TIP]
+>
+> **EXPERIENCIA EN GESTIÓN Y DOCUMENTACIÓN**
+>
+> - PROYECTOS E INFORMES DE ACTIVIDADES ANALÍTICAS Y DE DESARROLLO
+>   (PAD/IAD).
+>
+> - VALIDACIÓN MÉTODOS ANALÍTICOS.
+>
+> - ELABORACIÓN Y SEGUIMIENTO DE DOCUMENTACIÓN, CoA, PNT, MA…
+>
+> - AIQ-PLAN/INFORME, EVALUACIÓN DE RIESGOS, FICHA DE EQUIPOS ChC, URS…
+>
+> - FORMACIÓN EN GMP, GLP, FE, USP, CFR21…
+
+</div>
+
+</div>
+
+</div>
+
+[^1]: <span style="font-size: xx-small;">🟢 basic, 🟢-🟢 intermediate,
+    🟢-🟢-🟢 advance, 🟢-🟢-🟢-🟢 master</span>
+
+[^2]: <span style="font-size: xx-small;">ESTUDIO COMPARATIVO DE HBPM.
+    SECUENCIACIÓN DE SUS CADENAS OLIGOSACÁRIDAS</span>
+
+[^3]: <span style="font-size: xx-small;">PROGRAMA DOCTORADO QUÍMICA
+    MÉDICA</span>
+
+[^4]: <span style="font-size: xx-small;">ESPECIALIDAD QUÍMICA
+    ANALÍTICA</span>
+
+[^5]: <span style="font-size: xx-small;">CURSO TEÓRICO-PRÁCTICO EN
+    PROCESOS Y EQUIPOS DE LIOFILIZACIÓN (COMSER)</span>
+
+[^6]: <span style="font-size: xx-small;">TFF ON COGENT M1 STANDARD
+    SYSTEMS LEVEL 1 AND LEVEL 3 (MERCK)</span>
