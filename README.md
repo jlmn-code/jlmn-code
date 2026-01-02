@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 author: "jlmn"
-format: pdf
+format: html
 ---
 
 <div class="columns">
@@ -33,18 +33,19 @@ style="background-color: #e5e7eb; width: 28%; font-size: small;">
 | DoE                              | 🟢-🟢-🟢   |
 | titration metrohm                | 🟢-🟢      |
 | isolation process + freeze dryer | 🟢-🟢-🟢   |
+<br clear="right" />
 
 LABORATORY EXPERIENCE
 
 | SOFTWARE              | EXEPRIENCE |
 |-----------------------|------------|
+| python pandas/scikit-learn     | 🟢-🟢-🟢   |
 | r tidyverse/model     | 🟢-🟢-🟢   |
-| phyton/html/css       | 🟢         |
+| html/css       | 🟢         |
 | quarto                | 🟢-🟢      |
 | empower               | 🟢-🟢      |
 | mnova                 | 🟢-🟢      |
-| minitab               | 🟢-🟢      |
-| excel/word            | 🟢-🟢-🟢   |
+| minitab/excel/word                 | 🟢-🟢      |
 | lean QbD              | 🟢         |
 | tiamo/spectra manager | 🟢-🟢      |
 
@@ -86,12 +87,13 @@ laboratorio y piloto.
 
 |                                                       |         |
 |-------------------------------------------------------|:-------:|
+| Machine Learning (ML)[^5] (PYTHON) | 📅 2026 |
 | CURSO AVANZADO ESTADÍSTICA MULTIVARIANTE (R & PYTHON) | 📅 2022 |
 | CURSO R FOR DATA SCIENCE                              | 📅 2021 |
-| CURSO LIOFILIZACIÓN [^5]                              | 📅 2021 |
+| CURSO LIOFILIZACIÓN [^6]                              | 📅 2021 |
 | ANÁLISIS AVANZADO DE DATOS ATÍPICOS EN R Y MATLAB     | 📅 2020 |
 | CURSO ESTADÍSTICA UNIVERSITARIO                       | 📅 2020 |
-| TANGENTIAL FLOW FILTRATION[^6], TRTFF03 & TRTFF01     | 📅 2018 |
+| TANGENTIAL FLOW FILTRATION[^7], TRTFF03 & TRTFF01     | 📅 2018 |
 | DESARROLLO FARMACÉUTICO MEDIANTE QbD                  | 📅 2017 |
 | VALIDACIÓN MÉTODOS DE MEDICIÓN Y ENSAYO               | 📅 2016 |
 
@@ -132,8 +134,16 @@ laboratorio y piloto.
 [^4]: <span style="font-size: xx-small;">ESPECIALIDAD QUÍMICA
     ANALÍTICA</span>
 
-[^5]: <span style="font-size: xx-small;">CURSO TEÓRICO-PRÁCTICO EN
+[^5]: <span style="font-size: xx-small;">Machine Learning (ML)
+The "standard stack" for machine learning in Python includes:
+Scikit-learn: The foundation for classical ML algorithms like regression, classification, and clustering.
+Pandas: Critical for data manipulation, cleaning, and analysis of tabular data.
+NumPy: Provides the high-performance numerical operations and multi-dimensional arrays that power most ML math.
+TensorFlow & PyTorch: Leading frameworks for deep learning and neural network development.
+Matplotlib & Seaborn: Used for data visualization and understanding model performance.</span>
+
+[^6]: <span style="font-size: xx-small;">CURSO TEÓRICO-PRÁCTICO EN
     PROCESOS Y EQUIPOS DE LIOFILIZACIÓN (COMSER)</span>
 
-[^6]: <span style="font-size: xx-small;">TFF ON COGENT M1 STANDARD
+[^7]: <span style="font-size: xx-small;">TFF ON COGENT M1 STANDARD
     SYSTEMS LEVEL 1 AND LEVEL 3 (MERCK)</span>
