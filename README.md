@@ -8,26 +8,26 @@
 │   └── Multidisciplinary research technician with over 20 years of experience...
 ├── 📧 CONTACT
 │   └── jlmncode@gmail.com
-└── 🎯 SKILLS                                                     |EXEPERIENCE|
+└── 🎯 SKILLS                                                     |EXEPERIENCE
     ├── 🧪 LABORATORY----------------------------------------------------------                                      
-    │   ├── NMR/MS/FTIR/UV                                        | 🟢-🟢-🟢 |
-    │   ├── filtration TFF/NF                                     | 🟢-🟢-🟢 |
-    │   ├── chromatography HPLC/PLC                               | 🟢-🟢-🟢 |
-    │   ├── organic chemistry & synthesis                         | 🟢-🟢-🟢 |
-    │   ├── pilot plant / fine chemistry                          |   🟢-🟢  |
-    │   ├── DoE                                                   | 🟢-🟢-🟢 |
-    │   ├── titration metrohm                                     | 🟢-🟢-🟢 |
-    │   └── isolation process + freeze dryer                      |   🟢-🟢  |
+    │   ├── NMR/MS/FTIR/UV                                        | 🟢-🟢-🟢 
+    │   ├── filtration TFF/NF                                     | 🟢-🟢-🟢 
+    │   ├── chromatography HPLC/PLC                               | 🟢-🟢-🟢 
+    │   ├── organic chemistry & synthesis                         | 🟢-🟢-🟢 
+    │   ├── pilot plant / fine chemistry                          |   🟢-🟢  
+    │   ├── DoE                                                   | 🟢-🟢-🟢 
+    │   ├── titration metrohm                                     | 🟢-🟢-🟢 
+    │   └── isolation process + freeze dryer                      |   🟢-🟢  
     └── 💻 SOFTWARE SKILLS-----------------------------------------------------
-        ├── python pandas/scikit-learn                            | 🟢-🟢-🟢 |    
-        ├── r tidyverse/tidymodel                                 | 🟢-🟢-🟢 |
-        ├── html/css                                              | 🟢-🟢-🟢 |
-        ├── quarto/jupyter                                        | 🟢-🟢-🟢 |
-        ├── empower                                               |   🟢-🟢  |
-        ├── mnova                                                 | 🟢-🟢-🟢 |
-        ├── minitab/excel/word                                    | 🟢-🟢-🟢 |
-        ├── lean QbD                                              |   🟢-🟢  |
-        └── tiamo/spectra manager                                 |     🟢    |
+        ├── python pandas/scikit-learn                            | 🟢-🟢-🟢     
+        ├── r tidyverse/tidymodel                                 | 🟢-🟢-🟢
+        ├── html/css                                              | 🟢-🟢-🟢 
+        ├── quarto/jupyter                                        | 🟢-🟢-🟢 
+        ├── empower                                               |   🟢-🟢  
+        ├── mnova                                                 | 🟢-🟢-🟢 
+        ├── minitab/excel/word                                    | 🟢-🟢-🟢 
+        ├── lean QbD                                              |   🟢-🟢  
+        └── tiamo/spectra manager                                 |     🟢    
 
 
 🟢-🟢-🟢 HIGH EXPERIENCE
